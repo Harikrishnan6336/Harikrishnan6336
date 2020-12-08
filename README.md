@@ -1,7 +1,7 @@
 <h2>Hey there, I'm Hari  <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 
-- 🔭 I’m currently an **NLP** intern in [JIFFY.ai](https://jiffy.ai/)
+- 🔭 I’m currently an **NLP** intern at [JIFFY.ai](https://jiffy.ai/)
 - 🌱 I’m currently learning Backend Web Development
 - 👯 I’m looking to collaborate on **Django** based projects.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
