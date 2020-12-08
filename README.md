@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2>Hey there, I'm Hari  <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <!--
 **Harikrishnan6336/Harikrishnan6336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
