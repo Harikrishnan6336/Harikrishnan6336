@@ -6,5 +6,5 @@
 - 👯 I’m looking to collaborate on **Django** based projects.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
 - 📫 How to reach me: Mail [here💌](mailto:harikrishnan6336@gmail.com)
-- You can view my resume [here](https://drive.google.com/file/d/1J85bTGtIeCyWOwWvd3JSHeYAuEeeJ1Ts/view?usp=sharing)
+- You can view my resume [here](https://drive.google.com/file/d/11l5yprWmEvkhQDP7aEKuIo9RhNia7Uwt/view?usp=sharing)
 
